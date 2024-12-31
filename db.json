@@ -3,5 +3,22 @@
     ["0xa15B65c4CC2a0b2E8CFc1d23eeE53516586DfA86", 1],
     ["0xC2289bd7A3781cc342245674dd26f9222713C8a5", 1],
     ["0x89B4076164c5a26Ab792e0e2d649FF9Ae8EE0941", 1]
+  ],
+  "tokenList": [
+    {
+      "id": "0xB96680C14d88D2cBad6e9A07F0b29Fc177a4ef8F",
+      "name": "Chicken",
+      "symbol": "CHICK",
+      "amount": 10000,
+      "uid": "64bc40fd-c579-49de-9cda-e2cc9b95d599",
+      "image": {
+        "url": "https://s3.ap-southeast-1.amazonaws.com/virtualprotocolcdn/name_37db5baf0b.jpeg"
+      },
+      "preToken": "0xB96680C14d88D2cBad6e9A07F0b29Fc177a4ef8F",
+      "tokenAddress": "",
+      "virtualId": 1,
+      "virtualTokenValue": "2236421861922530",
+      "role": "INFORMATION"
+    }
   ]
 }
