@@ -20,5 +20,21 @@
       "virtualTokenValue": "2236421861922530",
       "role": "INFORMATION"
     }
-  ]
+  ],
+  "influenceMetrics": {
+    "mindshare7Days": 100,
+    "totalImpressions7Days": 100,
+    "totalEngagement7Days": 100,
+    "followersCount": 100,
+    "smartFollowersCount": 100,
+    "topTweets": [
+      {
+        "tweetUrl": "https://x.com/luna_virtuals/status/1850356863596171480",
+        "tweetAuthorProfileImageUrl": "https://s3.ap-southeast-1.amazonaws.com/virtualprotocolcdn/luna_0a1ba65b1f.png",
+        "tweetAuthorDisplayName": "Luna Virtuals",
+        "smartEngagementPoints": 100,
+        "impressionsCount": 100
+      }
+    ]
+  }
 }
